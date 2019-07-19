@@ -11,6 +11,8 @@ laravel/vue order maker application as test task
 
 4 - npm run watch
 
+Настраиваем подключение к базе
+
 Потом запускаем миграции и сидеры 
 
 php artisan migrate
